@@ -2,11 +2,11 @@
 
 Tests and implementations for common data structures.
 
-Base repository for the [Core Data Structures](https://github.com/GuildCrafts/web-development-js/issues/128) goal. See specs and quality rubric in the [CONTRACT.md](./CONTRACT.md) file.
+See specs and quality rubric in the [CONTRACT.md](./CONTRACT.md) file.
 
 ## Installation and Setup
 
-```
+```Bash
   npm run install
   npm run test
 ```
