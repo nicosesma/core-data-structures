@@ -6,8 +6,7 @@ Base repository for the [Core Data Structures](https://github.com/GuildCrafts/we
 
 ## Installation and Setup
 
-_Fill this out_
-
-## Usage and Examples
-
-_...and this_
+```
+  npm run install
+  npm run test
+```
